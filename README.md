@@ -66,7 +66,7 @@ URL:
 * beets
 
 ##### Install Instructions
-* Download and setup `beets` ([see this guide](`https://beets.readthedocs.io/en/stable/guides/main.html`))
+* Download and setup `beets` ([see this guide](http://beets.readthedocs.io/en/stable/guides/main.html))
   * Enabling the `fromfilename` plugin can improve the importing step.
 * Clone this repo
 * Run `python3 setup.py install`
